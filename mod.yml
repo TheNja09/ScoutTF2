@@ -1,11 +1,11 @@
 title: Scout Lines for Sora
 description: Replaces Sora's Voice with Scout from TF2.
 assets:
-- name: voice\us\battle\n_sniper.win32.scd
+- name: remastered\obj\B_EX140.a.us\voice\battle\us\n_sniper
   platform: pc
   method: copy
   source:
-  - name: n_sniper.win32.scd
+  - name: n_sniper
 - name: voice\us\battle\al0_sora.win32.scd
   platform: pc
   method: copy
