@@ -6,6 +6,11 @@ assets:
   method: copy
   source:
   - name: n_sniper
+- name: remastered\obj\B_EX140_LV99.a.us\voice\battle\us\n_sniper
+  platform: pc
+  method: copy
+  source:
+  - name: n_sniper
 - name: voice\us\battle\al0_sora.win32.scd
   platform: pc
   method: copy
