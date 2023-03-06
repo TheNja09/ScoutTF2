@@ -5,154 +5,224 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: n_sniper
+  - name: Misc\n_sniper
 - name: remastered\obj\B_EX140_LV99.a.us\voice\battle\us\n_sniper
   platform: pc
   method: copy
   source:
-  - name: n_sniper
+  - name: Misc\n_sniper
 - name: voice\us\battle\al0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: al0_sora.win32.scd
+  - name: Sora\al0_sora.win32.scd
 - name: voice\us\battle\bb0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: bb0_sora.win32.scd
+  - name: Sora\bb0_sora.win32.scd
 - name: voice\us\battle\ca0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: ca0_sora.win32.scd
+  - name: Sora\ca0_sora.win32.scd
 - name: voice\us\battle\dc0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: dc0_sora.win32.scd
+  - name: Sora\Sora\dc0_sora.win32.scd
 - name: voice\us\battle\eh0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: eh0_sora.win32.scd
+  - name: Sora\eh0_sora.win32.scd
 - name: voice\us\battle\hb0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: hb0_sora.win32.scd
+  - name: Sora\hb0_sora.win32.scd
 - name: voice\us\battle\he0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: he0_sora.win32.scd
+  - name: Sora\he0_sora.win32.scd
 - name: voice\us\battle\lk0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: lk0_sora.win32.scd
+  - name: Sora\lk0_sora.win32.scd
 - name: voice\us\battle\lm0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: lm0_sora.win32.scd
+  - name: Sora\lm0_sora.win32.scd
 - name: voice\us\battle\mu0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: mu0_sora.win32.scd
+  - name: Sora\mu0_sora.win32.scd
 - name: voice\us\battle\nm0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: nm0_sora.win32.scd
+  - name: Sora\nm0_sora.win32.scd
 - name: voice\us\battle\po0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: po0_sora.win32.scd
+  - name: Sora\po0_sora.win32.scd
 - name: voice\us\battle\tr0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: tr0_sora.win32.scd
+  - name: Sora\tr0_sora.win32.scd
 - name: voice\us\battle\tt0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: tt0_sora.win32.scd
+  - name: Sora\tt0_sora.win32.scd
 - name: voice\us\battle\wi0_sora.win32.scd
   platform: pc
   method: copy
   source:
-  - name: wi0_sora.win32.scd
+  - name: Sora\wi0_sora.win32.scd
 - name: voice\us\battle\al0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: al0_goofy.win32.scd
+  - name: Goofy\al0_goofy.win32.scd
 - name: voice\us\battle\bb0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: bb0_goofy.win32.scd
+  - name: Goofy\Goofy\bb0_goofy.win32.scd
 - name: voice\us\battle\ca0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: ca0_goofy.win32.scd
+  - name: Goofy\ca0_goofy.win32.scd
 - name: voice\us\battle\dc0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: dc0_goofy.win32.scd
+  - name: Goofy\dc0_goofy.win32.scd
 - name: voice\us\battle\eh0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: eh0_goofy.win32.scd
+  - name: Goofy\eh0_goofy.win32.scd
 - name: voice\us\battle\hb0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: hb0_goofy.win32.scd
+  - name: Goofy\hb0_goofy.win32.scd
 - name: voice\us\battle\he0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: he0_goofy.win32.scd
+  - name: Goofy\he0_goofy.win32.scd
 - name: voice\us\battle\lk0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: lk0_goofy.win32.scd
+  - name: Goofy\lk0_goofy.win32.scd
 - name: voice\us\battle\lm0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: lm0_goofy.win32.scd
+  - name: Goofy\lm0_goofy.win32.scd
 - name: voice\us\battle\mu0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: mu0_goofy.win32.scd
+  - name: Goofy\mu0_goofy.win32.scd
 - name: voice\us\battle\nm0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: nm0_goofy.win32.scd
+  - name: Goofy\nm0_goofy.win32.scd
 - name: voice\us\battle\tr0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: tr0_goofy.win32.scd
+  - name: Goofy\tr0_goofy.win32.scd
 - name: voice\us\battle\tt0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: tt0_goofy.win32.scd
+  - name: Goofy\tt0_goofy.win32.scd
 - name: voice\us\battle\wi0_goofy.win32.scd
   platform: pc
   method: copy
   source:
-  - name: wi0_goofy.win32.scd
+  - name: Goofy\wi0_goofy.win32.scd
+- name: voice\us\battle\al0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\al0_donald.win32.scd
+- name: voice\us\battle\bb0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\Donald\bb0_donald.win32.scd
+- name: voice\us\battle\ca0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\ca0_donald.win32.scd
+- name: voice\us\battle\dc0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\dc0_donald.win32.scd
+- name: voice\us\battle\eh0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\eh0_donald.win32.scd
+- name: voice\us\battle\hb0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\hb0_donald.win32.scd
+- name: voice\us\battle\he0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\he0_donald.win32.scd
+- name: voice\us\battle\lk0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\lk0_donald.win32.scd
+- name: voice\us\battle\lm0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\lm0_donald.win32.scd
+- name: voice\us\battle\mu0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\mu0_donald.win32.scd
+- name: voice\us\battle\nm0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\nm0_donald.win32.scd
+- name: voice\us\battle\tr0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\tr0_donald.win32.scd
+- name: voice\us\battle\tt0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\tt0_donald.win32.scd
+- name: voice\us\battle\wi0_donald.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: Donald\wi0_donald.win32.scd
