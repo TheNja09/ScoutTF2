@@ -30,7 +30,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: Sora\Sora\dc0_sora.win32.scd
+  - name: Sora\dc0_sora.win32.scd
 - name: voice\us\battle\eh0_sora.win32.scd
   platform: pc
   method: copy
@@ -95,7 +95,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: Goofy\Goofy\bb0_goofy.win32.scd
+  - name: Goofy\bb0_goofy.win32.scd
 - name: voice\us\battle\ca0_goofy.win32.scd
   platform: pc
   method: copy
@@ -165,7 +165,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: Donald\Donald\bb0_donald.win32.scd
+  - name: Donald\bb0_donald.win32.scd
 - name: voice\us\battle\ca0_donald.win32.scd
   platform: pc
   method: copy
