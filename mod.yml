@@ -86,3 +86,73 @@ assets:
   method: copy
   source:
   - name: wi0_sora.win32.scd
+- name: voice\us\battle\al0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: al0_goofy.win32.scd
+- name: voice\us\battle\bb0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: bb0_goofy.win32.scd
+- name: voice\us\battle\ca0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: ca0_goofy.win32.scd
+- name: voice\us\battle\dc0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: dc0_goofy.win32.scd
+- name: voice\us\battle\eh0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: eh0_goofy.win32.scd
+- name: voice\us\battle\hb0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: hb0_goofy.win32.scd
+- name: voice\us\battle\he0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: he0_goofy.win32.scd
+- name: voice\us\battle\lk0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: lk0_goofy.win32.scd
+- name: voice\us\battle\lm0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: lm0_goofy.win32.scd
+- name: voice\us\battle\mu0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: mu0_goofy.win32.scd
+- name: voice\us\battle\nm0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: nm0_goofy.win32.scd
+- name: voice\us\battle\tr0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: tr0_goofy.win32.scd
+- name: voice\us\battle\tt0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: tt0_goofy.win32.scd
+- name: voice\us\battle\wi0_goofy.win32.scd
+  platform: pc
+  method: copy
+  source:
+  - name: wi0_goofy.win32.scd
